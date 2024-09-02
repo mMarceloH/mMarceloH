@@ -4,7 +4,7 @@ my name is Marcelo i have 20 years, I am a full-stack developer. I have been pra
 <br/>
 ##
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mMarceloH&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mMarceloH&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mMarceloH&langs_count=4&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ##
 
